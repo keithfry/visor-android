@@ -2,6 +2,8 @@
 
 An Android application for controlling LED-equipped wearable devices via Bluetooth Low Energy (BLE). The app connects to a custom BLE-enabled device (FloraDress) to control LED patterns, colors, brightness, and animations.
 
+This app works with the [Magic Visor Controller](https://github.com/keithfry/visor-controller) firmware.
+
 > [!NOTE]
 > The name "FloraDress" was retained from the original Flora-based implementation, though the current device no longer uses Flora hardware.
 
